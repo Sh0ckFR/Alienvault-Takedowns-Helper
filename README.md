@@ -1,5 +1,5 @@
 # Alienvault-Takedowns-Helper
-A small script to get the registrars and the whois of a domain via alienvault
+A small script to get the registrars and the whois of a domain via alienvault and riskik (alienvault is currently not implemented).
 
 
 ## Installation
