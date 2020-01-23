@@ -12,3 +12,7 @@ A small script to get the registrars and the whois of a domain via alienvault an
 
 - python3 alienvault-takedowns-helper.py IP_ADDRESS (To find on alienvault the DNS registrars)
 - python3 alienvault-takedowns-helper.py DNS (To do a whois on a DNS)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
